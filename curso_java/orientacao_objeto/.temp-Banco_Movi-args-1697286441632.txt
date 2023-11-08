@@ -1,0 +1,8 @@
+-XX:+ShowCodeDetailsInExceptionMessages
+-agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:52618
+"-javaagent:C:\\Users\\jarde\\eclipse\\java-2023-06\\eclipse\\configuration\\org.eclipse.osgi\\248\\0\\.cp\\lib\\javaagent-shaded.jar"
+-Dfile.encoding=UTF-8
+-p
+"D:\\03 - Documentos\\01 - Projetos\\04 - Java\\Curso\\orientacao_objeto\\bin"
+-m
+orientacao_objeto/application.Banco_Movimentacao
